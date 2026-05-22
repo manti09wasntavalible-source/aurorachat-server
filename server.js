@@ -34,8 +34,9 @@ const rooms = [
   "general",
   "announcements",
   "bots",
-  "lounge",
-  "luigi chat",
+  "afk",
+  "fih chat",
+  "roleplay"
 ];
 
 const roomCount = rooms.length;
